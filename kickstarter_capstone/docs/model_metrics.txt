@@ -1,0 +1,9 @@
+Gradient Boosting Classifier:
+
+Hyperparameters:
+	- 'n_estimators': 60
+	- 'learning_rate': 0.2
+	
+Accuracy: 0.6865
+Precision: 0.6113
+AUC: 0.72
